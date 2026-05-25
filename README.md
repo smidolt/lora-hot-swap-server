@@ -75,5 +75,3 @@ access until the byte budget fits.
 ## License
 
 Apache-2.0.
-# lora-hot-swap-server
-# lora-hot-swap-server
